@@ -1,3 +1,5 @@
+<img width="1910" height="716" alt="image" src="https://github.com/user-attachments/assets/d5c4915b-0f3b-451e-a1f3-649f18489a88" />
+
 # Black Hole Experiment — Grok 4
 
 > _"This black hole was created using Grok 4 🤯"_
